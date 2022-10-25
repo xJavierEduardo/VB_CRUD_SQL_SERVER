@@ -1,0 +1,15 @@
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.exe
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.pdb
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\bin\Debug\ProyectoFarmacia.xml
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.vbproj.AssemblyReference.cache
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.Resources.resources
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.vbproj.GenerateResource.cache
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.vbproj.CoreCompileInputs.cache
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.exe
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.xml
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.pdb
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.frmLogin.resources
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.frmMenu.resources
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.frmClientes.resources
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.frmMedicamentos.resources
+C:\Users\Programador Javier\source\repos\ProyectoFarmacia\ProyectoFarmacia\obj\Debug\ProyectoFarmacia.frmOrdenPedidos.resources
